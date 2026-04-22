@@ -12,23 +12,22 @@ Hosted at: **https://ghostnote-labs.github.io/legal/**
 
 ## Publishing workflow — IMPORTANT
 
-**This repo is public, and GitHub Pages builds everything here into an indexable site.** Product codenames (e.g. `Numen`, `Ember`) must NOT appear in the hosted files until the underlying trademark clearance is complete — see `docs/LEGAL.md` Priority 1 in the private product repo.
+**This repo is public, and GitHub Pages builds everything here into an indexable site.** Any unreleased product codenames, character names, or other trademark-sensitive terms must NOT appear in this repo (including this README) until the underlying trademark clearance is complete.
 
-Canonical sources live in the **private** product repo at `eSmelser/numen` → `docs/legal/`. Those files may use the product name freely for developer clarity.
+Canonical source drafts live in the private product repository. Those files may use product-specific names freely for developer clarity.
 
-### When pulling a policy change from the private repo into this public one:
+### When pulling a policy change from the private source into this public repo:
 
-1. Start from the canonical markdown file in `eSmelser/numen/docs/legal/`.
-2. Replace every product-specific codename with a generic placeholder:
-   - `Numen` → `the App` or `our mobile application`
-   - `Ember` (familiar's name) → `the AI familiar` or `characters`
-   - Any other unreleased proper noun → generic equivalent
+1. Start from the canonical markdown file in the private product repo's `docs/legal/` directory.
+2. Replace every unreleased product-specific name with a generic placeholder:
+   - Product codename → `the App` or `our mobile application`
+   - Any character or system name not yet publicly announced → generic equivalent (e.g. `the AI familiar`, `characters`, `game mechanics`)
 3. Prepend the Jekyll frontmatter block (`---\nlayout: default\ntitle: ...\npermalink: /...\n---`).
 4. Commit + push to `main`. Pages rebuilds within ~1 minute.
 
 ### When to restore product names
 
-Once the trademark for the product is filed and cleared (or at public announcement at the latest), update the hosted version to use the real name. Until then: generic placeholders only.
+Once trademarks are filed and cleared (or at public announcement, whichever comes first), update the hosted version to use the real names. Until then: generic placeholders only — including in this README.
 
 ## Theme
 
