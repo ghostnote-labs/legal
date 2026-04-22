@@ -40,9 +40,9 @@ This data is read on your device and used exclusively to compute in-game progres
 
 You can revoke the App's Health Connect permission at any time through your device's Settings → Apps → Health Connect → App permissions.
 
-### 2.2 Conversations with Ember (familiar chat)
+### 2.2 Conversations with our AI familiar
 
-The App includes a conversational character called Ember, powered by an external AI service (see §3). When you send a message to Ember:
+The App includes a conversational AI familiar character, powered by an external AI service (see §3). When you send a message to the familiar:
 
 - Your message is sent to the AI service for processing.
 - The reply is returned to your device and displayed.
@@ -68,13 +68,13 @@ During Alpha testing, we collect feedback responses through Google Forms. Survey
 
 ### 3.1 Anthropic (Claude AI service)
 
-The App uses Anthropic's Claude API to power Ember's conversational responses. When you send a message to Ember:
+The App uses Anthropic's Claude API to power the familiar's conversational responses. When you send a message to the AI familiar:
 
 - Your message text is transmitted to Anthropic's API endpoints.
 - Anthropic processes the message and returns a response.
 - Anthropic's processing is governed by their privacy policy: https://www.anthropic.com/legal/privacy
 
-We pass Anthropic the minimum information needed to generate a response (your message + a system prompt describing Ember's character and game context). We do not pass your real name, contact information, or health data to Anthropic.
+We pass Anthropic the minimum information needed to generate a response (your message + a system prompt describing the familiar's character and game context). We do not pass your real name, contact information, or health data to Anthropic.
 
 ### 3.2 Google (Health Connect, Play Store, Google Forms)
 
@@ -98,7 +98,7 @@ You may request deletion of your survey responses and interview notes at any tim
 
 - **Health permissions:** revoke at any time through your device Settings.
 - **Local data:** clear by uninstalling the App or via Settings → Apps → [the App] → Storage → Clear data.
-- **Ember chat:** simply do not use the chat feature; no message means no transmission to Anthropic.
+- **AI familiar chat:** simply do not use the chat feature; no message means no transmission to Anthropic.
 - **Survey responses:** request deletion by email to ghostnotelabsllc@gmail.com.
 
 ---
