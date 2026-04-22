@@ -4,11 +4,11 @@ title: Terms of Service
 permalink: /terms
 ---
 
-# Numen — Terms of Service
+# Terms of Service
 
 **Effective date:** April 20, 2026
 
-These Terms of Service ("Terms") govern your use of the Numen mobile application ("the App"), provided by Ghostnote Labs LLC ("we," "us," "Ghostnote Labs"). By installing or using the App, you agree to these Terms.
+These Terms of Service ("Terms") govern your use of our mobile application ("the App"), provided by Ghostnote Labs LLC ("we," "us," "Ghostnote Labs"). By installing or using the App, you agree to these Terms.
 
 The App is currently in **private Alpha testing** under separate non-disclosure agreement. These Terms apply alongside the NDA. If anything in these Terms conflicts with the NDA, the NDA controls for the Alpha period.
 
@@ -100,7 +100,7 @@ In jurisdictions that do not allow the exclusion or limitation of incidental or 
 
 ## 8. Intellectual property
 
-All intellectual property in the App — including but not limited to source code, art, written content (lore, dialogue, scripted responses), the "Numen" name and concept, the "Ember" character, game mechanics (covenants, personal records, threads, the reveal animation, etc.) — is owned by Ghostnote Labs LLC.
+All intellectual property in the App — including but not limited to source code, art, written content (lore, dialogue, scripted responses), the App name and concept, all characters and creative elements, game mechanics (covenants, personal records, threads, the reveal animation, etc.) — is owned by Ghostnote Labs LLC.
 
 You retain ownership of any data you provide (your workouts, your survey responses, your messages to Ember). Per the separate Alpha NDA, ideas you suggest about how to improve the App are assigned to Ghostnote Labs.
 

@@ -4,11 +4,11 @@ title: Privacy Policy
 permalink: /privacy
 ---
 
-# Numen — Privacy Policy
+# Privacy Policy
 
 **Effective date:** April 20, 2026
 
-This Privacy Policy describes how Ghostnote Labs LLC ("we," "us," "Ghostnote Labs") collects, uses, and handles information when you use the Numen mobile application ("the App").
+This Privacy Policy describes how Ghostnote Labs LLC ("we," "us," "Ghostnote Labs") collects, uses, and handles information when you use our mobile application ("the App").
 
 The App is currently in **private Alpha testing** with a small cohort under non-disclosure agreement. This policy applies to that Alpha test. We will publish a revised policy if and when the App moves to public release.
 
@@ -97,7 +97,7 @@ You may request deletion of your survey responses and interview notes at any tim
 ## 5. Your choices
 
 - **Health permissions:** revoke at any time through your device Settings.
-- **Local data:** clear by uninstalling the App or via Settings → Apps → Numen → Storage → Clear data.
+- **Local data:** clear by uninstalling the App or via Settings → Apps → [the App] → Storage → Clear data.
 - **Ember chat:** simply do not use the chat feature; no message means no transmission to Anthropic.
 - **Survey responses:** request deletion by email to ghostnotelabsllc@gmail.com.
 
