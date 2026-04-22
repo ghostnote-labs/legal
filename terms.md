@@ -1,0 +1,143 @@
+---
+layout: default
+title: Terms of Service
+permalink: /terms
+---
+
+# Numen — Terms of Service
+
+**Effective date:** April 20, 2026
+
+These Terms of Service ("Terms") govern your use of the Numen mobile application ("the App"), provided by Ghostnote Labs LLC ("we," "us," "Ghostnote Labs"). By installing or using the App, you agree to these Terms.
+
+The App is currently in **private Alpha testing** under separate non-disclosure agreement. These Terms apply alongside the NDA. If anything in these Terms conflicts with the NDA, the NDA controls for the Alpha period.
+
+---
+
+## 1. Eligibility
+
+You must be at least 13 years old to use the App. If you are between 13 and 18 (or below the age of majority in your jurisdiction), you must have a parent or guardian's consent. If you are in the European Economic Area, United Kingdom, or other jurisdiction with a higher age of digital consent, you must meet that age (typically 16) or have parental consent.
+
+---
+
+## 2. License to use
+
+We grant you a limited, non-exclusive, non-transferable, revocable license to use the App for personal, non-commercial purposes during the Alpha test period. This license terminates when the Alpha test ends or when we end your access for any reason.
+
+You may not:
+
+- Reverse engineer, decompile, or attempt to extract the App's source code.
+- Modify, adapt, or create derivative works of the App.
+- Distribute, sell, sublicense, or transfer the App or your access to it.
+- Use the App for any unlawful purpose.
+- Use automated means to interact with the App or any included services (including the Ember chat feature).
+- Attempt to extract or harvest data from the Anthropic Claude API beyond ordinary in-app conversation use.
+
+---
+
+## 3. Your account and data
+
+The App stores your data locally on your device. You are responsible for:
+
+- The security of your device.
+- Backups of your local data (we do not provide cloud backup).
+- The accuracy of any data you provide (including survey responses and Ember chat messages).
+
+---
+
+## 4. Acceptable use of Ember (familiar chat)
+
+The Ember chat feature is powered by an external AI service (Anthropic Claude). You agree:
+
+- Not to attempt to elicit harmful, illegal, or abusive content from Ember.
+- Not to share private information about other people through Ember chat.
+- Not to use Ember for medical, legal, financial, or professional advice.
+- That Ember's responses are AI-generated and may be inaccurate, incomplete, or inconsistent. Do not rely on them as authoritative.
+
+We reserve the right to revoke your access to the Ember chat feature if we observe abuse.
+
+---
+
+## 5. Health and fitness disclaimer
+
+**Important — read carefully.**
+
+The App is a fitness gamification tool. **It is not medical software.** It does not diagnose, treat, cure, or prevent any disease or condition. The information the App displays is for general informational and entertainment purposes only.
+
+**Consult a qualified healthcare professional before beginning, modifying, or intensifying any exercise program.** This is especially important if you have any pre-existing medical condition, are pregnant, are recovering from injury, or are over 40 years old.
+
+You are solely responsible for:
+
+- The decision to engage in any physical activity.
+- The intensity, duration, and type of any workout you perform.
+- Recognizing your own physical limits and stopping when you experience pain, dizziness, or any concerning symptom.
+- Seeking medical attention when needed.
+
+The App's progression mechanics (levels, covenants, personal records) are gameplay devices and **do not constitute training advice or recommendations**. They should not motivate you to exceed safe training limits or ignore warning signs from your body.
+
+---
+
+## 6. The App is provided "AS IS"
+
+The App is provided on an "as is" and "as available" basis without warranties of any kind, either express or implied. To the fullest extent permitted by law, Ghostnote Labs disclaims all warranties, including but not limited to warranties of merchantability, fitness for a particular purpose, non-infringement, and accuracy of data displayed.
+
+The App is in Alpha testing. **It will contain bugs.** Some bugs may cause incorrect data to display, lost progress, or unexpected behavior. We make no guarantee of uninterrupted service or data integrity during Alpha.
+
+---
+
+## 7. Limitation of liability
+
+To the fullest extent permitted by law, Ghostnote Labs and its members, officers, employees, and contractors shall not be liable for any indirect, incidental, consequential, special, punitive, or exemplary damages arising from your use of the App, including but not limited to:
+
+- Personal injury arising from your physical activity, regardless of whether the App's content influenced your decision to engage in that activity.
+- Loss of data, lost progress, or interruption of service.
+- Inaccurate, misleading, or inappropriate content generated by the Ember chat feature.
+- Any third-party action, including by Anthropic, Google, or other subprocessors described in our Privacy Policy.
+
+In jurisdictions that do not allow the exclusion or limitation of incidental or consequential damages, our liability is limited to the maximum extent permitted by law. In any case, our total cumulative liability arising out of or relating to these Terms or the App shall not exceed one hundred US dollars ($100) or the amount you paid us in the past twelve months, whichever is greater. The Alpha test is provided at no charge, so the practical effect is the $100 cap.
+
+---
+
+## 8. Intellectual property
+
+All intellectual property in the App — including but not limited to source code, art, written content (lore, dialogue, scripted responses), the "Numen" name and concept, the "Ember" character, game mechanics (covenants, personal records, threads, the reveal animation, etc.) — is owned by Ghostnote Labs LLC.
+
+You retain ownership of any data you provide (your workouts, your survey responses, your messages to Ember). Per the separate Alpha NDA, ideas you suggest about how to improve the App are assigned to Ghostnote Labs.
+
+---
+
+## 9. Termination
+
+We may terminate or suspend your access to the App at any time, with or without notice, including if:
+
+- You violate these Terms or the NDA.
+- The Alpha test ends.
+- We discontinue the App.
+
+You may stop using the App at any time by uninstalling it. Uninstalling deletes your local data.
+
+---
+
+## 10. Changes to these Terms
+
+We may update these Terms as the App evolves. If we make material changes during the Alpha period, we will notify Alpha testers by email and update the effective date at the top of this document. Continued use of the App after a change indicates acceptance.
+
+---
+
+## 11. Governing law and disputes
+
+These Terms are governed by the laws of the State of Oregon, USA, without regard to conflict-of-laws principles. Any dispute arising from these Terms or your use of the App shall be resolved exclusively in the state or federal courts located in Clackamas County, Oregon, and you consent to the personal jurisdiction of those courts.
+
+---
+
+## 12. Severability
+
+If any provision of these Terms is found to be unenforceable, the remaining provisions shall continue in full force.
+
+---
+
+## 13. Contact
+
+Questions about these Terms:
+
+- Email: ghostnotelabsllc@gmail.com

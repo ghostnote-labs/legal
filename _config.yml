@@ -1,0 +1,22 @@
+# Jekyll config for GitHub Pages.
+# Using the built-in "cayman" theme — clean, minimal, no customization
+# needed for legal pages.
+title: Ghostnote Labs — Legal
+description: Privacy policy and terms of service for Ghostnote Labs LLC products.
+theme: jekyll-theme-cayman
+
+# Treat .md files as documents to render (GitHub Pages does this by
+# default but being explicit). Permalinks match what the app stores
+# and any links from the app itself will reference.
+permalink: /:title
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "default"
+
+# Exclude unnecessary files from the site build.
+exclude:
+  - README.md
+  - .gitignore
