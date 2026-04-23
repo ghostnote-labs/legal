@@ -1,15 +1,15 @@
 ---
 layout: default
-title: Legal
+title: Moved
 permalink: /
 ---
 
-# Ghostnote Labs — Legal
+# This site has moved
 
-Public-facing legal documents for Ghostnote Labs LLC products.
+Ghostnote Labs' public legal documents are now hosted at **[ghostnotelabs.studio](https://ghostnotelabs.studio)**.
 
-- [Privacy Policy](/legal/privacy)
-- [Terms of Service](/legal/terms)
+- [Privacy Policy](https://ghostnotelabs.studio/privacy)
+- [Terms of Service](https://ghostnotelabs.studio/terms)
 
 ---
 
